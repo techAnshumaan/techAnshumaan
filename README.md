@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techAnshumaan
-- 👀 I’m interested in java besed technoloy 
-- 🌱 I’m currently learning java frameworks, could (aws)
+- 👀 I’m interested in java besed technologies
+- 🌱 I have a good amunt of awareness on java frameworks,jee api, rest ,linux, could (aws) , & devops related tools.  
 - 💞️ I’m looking to collaborate on any real time deployment or development ,
 - 📫 How to reach me tech.spmaan@gmail.com
 
